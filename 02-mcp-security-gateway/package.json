@@ -1,0 +1,9 @@
+{
+  "name": "mcp-security-gateway-node",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node gateway.js"
+  }
+}

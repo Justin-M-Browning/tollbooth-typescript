@@ -1,0 +1,10 @@
+{
+  "name": "llm-gateway-guardrail-nodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node gateway.js",
+    "upstream": "node mock_upstream.js",
+    "test": "node test.js"
+  }
+}
